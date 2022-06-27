@@ -1,6 +1,6 @@
 # KeyNavigation
 
-This is an implementation about navigating HTML inputs with array keys.
+This is an implementation about navigating HTML inputs with arrow keys.
 ## Angular CLI version
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.2.
